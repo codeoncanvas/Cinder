@@ -11,3 +11,4 @@
 [submodule "blocks/CoC-CEF"]
 	path = blocks/CoC-CEF
 	url = git@github.com:codeoncanvas/coc-cef.git
+	branch = ofx-port-sample
